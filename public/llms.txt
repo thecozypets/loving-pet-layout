@@ -1,0 +1,12 @@
+# The Cozy Pets
+
+> A cozy home-style daycare and overnight boarding service for dogs and cats in Lavale, Pirangut, Mulshi, Pune — run by animal lovers with 7+ years of professional experience.
+
+## Pages
+
+- [Home](/): Overview of our home-style daycare and overnight boarding, gallery and reviews.
+- [Services](/services): Daycare (₹500/day) and overnight boarding (₹800/day), with what each stay includes.
+- [About](/about): Our story, experience in animal hospitals, nutrition and handling expertise.
+- [Gallery](/gallery): Photos and videos of pets staying with us.
+- [Blog](/blog): Pet care stories and tips.
+- [Contact](/contact): Booking enquiry form, phone numbers and location.
